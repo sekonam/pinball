@@ -1,0 +1,32 @@
+html,body{
+	height:100%;
+}
+body{
+	background: url(bg.jpg) center center no-repeat;
+	background-size:cover;
+}
+canvas{
+	display:block;
+	margin:0 auto;
+	background-color:#180077;
+	opacity:0.85;
+	box-shadow: 0 0 10px #000000;
+}
+#table{
+	width:400px;
+	margin:0 auto 20px auto;
+	text-shadow:0 0 2px #ffffff;
+}
+#table span{
+	font-weight:bold;
+}
+h1{
+	text-align:center;
+	margin:10px auto;
+}
+.center{
+	text-align:center;
+}
+#score{
+	margin-right:35px;
+}
